@@ -29,4 +29,4 @@ KounaFukuda-SeminarReport
 ## Conclusion
 
 ## 参考文献リスト
-BBC NEWS JAPAN: https://www.bbc.com/japanese/43958396
+(https://docs.google.com/spreadsheets/d/1ymiUSB8aduNF7J7v3_BTDA7u_lfGmJunsqjsHDMIlr4/edit?gid=0#gid=0)
