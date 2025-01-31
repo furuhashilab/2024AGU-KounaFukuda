@@ -1,7 +1,7 @@
 # 2024AGU-KounaFukuda
 KounaFukuda-SeminarReport
 
-# ゼミ論: 「平野龍磨脱獄事件とその後の足取り」
+# ゼミ論: 「平野龍磨脱獄事件とその後の足取りを分析」
 青山学院大学 地球社会共生学部 地球社会共生学科
 
 福田宏娜/Kouna Fukuda
