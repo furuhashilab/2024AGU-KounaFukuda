@@ -51,4 +51,4 @@ Google Earth ：各シーンのカメラパラメータのキャッチアップ
 5.この事件で最も重要な泳いだ経路が公開されていない（推測した）
 
 ## 参考文献リスト
-(https://docs.google.com/spreadsheets/d/1ymiUSB8aduNF7J7v3_BTDA7u_lfGmJunsqjsHDMIlr4/edit?gid=0#gid=0)
+(https://docs.google.com/spreadsheets/d/1ymiUSB8aduNF7J7v3_BTDA7u_lfGmJunsqjsHDMIlr4/edit?usp=sharing)
