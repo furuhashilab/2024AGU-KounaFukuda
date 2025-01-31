@@ -26,10 +26,29 @@ KounaFukuda-SeminarReport
 データの処理：まとめた経路とそれに対する分析をGoogle Earth 上に埋め込む。
 ## Results
 
+①[1882年以降2018年までの有名な脱獄事件とその詳細について](https://clever-corn-957.notion.site/ae110f08fa3c48d2b392fe5edc9acddc?pvs=4)
+
+②[脱獄から逮捕までの足取り](https://earth.google.com/earth/d/1fTKvVaK886nBjT9ht09OPnukgA3qeSLF?usp=sharing)
+
 ## Discussion
+
 マッピングをする際に建物を正面からみたような感覚にする。
 Google Earth ：各シーンのカメラパラメータのキャッチアップ
-## Conclusion
+
+（マッピングをする・した後）
+
+情報が少ないからこそ工夫を
+事件であるため、公開されている情報には限りがある
+
+地域がわかる場合は、範囲を囲んで紹介する
+
+2.地図上でみてわかる距離
+
+3.逃走の範囲・距離の広さ
+
+4.地形の特徴からなぜ22日間逃走可能だったか理解する
+
+5.この事件で最も重要な泳いだ経路が公開されていない（推測した）
 
 ## 参考文献リスト
 (https://docs.google.com/spreadsheets/d/1ymiUSB8aduNF7J7v3_BTDA7u_lfGmJunsqjsHDMIlr4/edit?gid=0#gid=0)
